@@ -1,4 +1,3 @@
-# Project-BeeWell-A-health-tracker
 # 🐝 BeeWell: Your Hive of Wellness
 
 **BeeWell** is an interactive AI/ML-powered wellness dashboard that helps you understand your health, predict risks, and take actionable steps to improve your lifestyle.  
